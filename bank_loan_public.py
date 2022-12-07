@@ -2,11 +2,8 @@
 """
 Created on Mon Dec 5, 2022
 
-@author: lorenzo Tanada
+@author: Lorenzo Tanada
 """
-
-#working with json file. 1 row of data is inside curly brackets
-#json is included with python, while pandas, numpy, matplotlib need to be installed
 
 import json
 import pandas as pd
